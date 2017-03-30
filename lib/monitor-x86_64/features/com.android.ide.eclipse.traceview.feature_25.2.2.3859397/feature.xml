@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="com.android.ide.eclipse.gldebugger.feature"
-      label="Tracer for OpenGL ES"
-      version="25.2.2.3841705"
-      provider-name="The Android Open Source Project">
+      id="com.android.ide.eclipse.traceview.feature"
+      label="Android Traceview"
+      version="25.2.2.3859397"
+      provider-name="The Android Open Source Project"
+      plugin="com.android.ide.eclipse.traceview">
 
    <description>
-      GLESv2 Debugger Client (Alpha status).
+      Android Traceview
    </description>
 
    <copyright>
@@ -217,16 +218,22 @@
    limitations under the License.
    </license>
 
+   <url>
+      <update label="Android Update Site" url="https://dl-ssl.google.com/android/eclipse/"/>
+   </url>
+
    <requires>
-      <import plugin="org.eclipse.ui"/>
-      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.core.runtime" version="3.7.0" match="greaterOrEqual"/>
+      <import plugin="com.android.ide.eclipse.ddms" version="10.0.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.filesystem"/>
+      <import plugin="org.eclipse.core.resources"/>
    </requires>
 
    <plugin
-         id="com.android.ide.eclipse.gldebugger"
-         download-size="508"
-         install-size="1077"
-         version="25.2.2.3841705"
+         id="com.android.ide.eclipse.traceview"
+         download-size="137"
+         install-size="154"
+         version="25.2.2.3859397"
          unpack="false"/>
 
 </feature>

@@ -659,7 +659,7 @@ to a jury trial in any resulting litigation.
 
 ============================================================
 Notices for file(s):
-lib/annotations-25.3.1.jar
+lib/annotations-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2013, The Android Open Source Project
@@ -854,7 +854,7 @@ lib/annotations-25.3.1.jar
 ============================================================
 Notices for file(s):
 bin/archquery
-lib/archquery-25.3.1.jar
+lib/archquery-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project
@@ -1048,7 +1048,7 @@ lib/archquery-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/asset-studio-25.3.1.jar
+lib/asset-studio-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2013, The Android Open Source Project
@@ -1242,7 +1242,7 @@ lib/asset-studio-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/builder-model-2.3.1.jar
+lib/builder-model-2.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2013, The Android Open Source Project
@@ -1436,7 +1436,7 @@ lib/builder-model-2.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/common-25.3.1.jar
+lib/common-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2013, The Android Open Source Project
@@ -1630,7 +1630,7 @@ lib/common-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/ddmlib-25.3.1.jar
+lib/ddmlib-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project
@@ -1824,7 +1824,7 @@ lib/ddmlib-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/dvlib-25.3.1.jar
+lib/dvlib-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2013, The Android Open Source Project
@@ -2019,7 +2019,7 @@ lib/dvlib-25.3.1.jar
 ============================================================
 Notices for file(s):
 bin/jobb
-lib/jobb-25.3.1.jar
+lib/jobb-25.3.2.jar
 ------------------------------------------------------------
 Portions of this code:             
 -------------------------------------------------------------------------------
@@ -2073,7 +2073,7 @@ limitations under the License.
 
 ============================================================
 Notices for file(s):
-lib/layoutlib-api-25.3.1.jar
+lib/layoutlib-api-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project
@@ -2267,7 +2267,7 @@ lib/layoutlib-api-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/lint-25.3.1.jar
+lib/lint-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2011, The Android Open Source Project
@@ -2461,7 +2461,7 @@ lib/lint-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/lint-api-25.3.1.jar
+lib/lint-api-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2011, The Android Open Source Project
@@ -2655,7 +2655,7 @@ lib/lint-api-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/lint-checks-25.3.1.jar
+lib/lint-checks-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2011, The Android Open Source Project
@@ -2849,7 +2849,7 @@ lib/lint-checks-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/manifest-merger-25.3.1.jar
+lib/manifest-merger-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2011, The Android Open Source Project
@@ -3043,7 +3043,7 @@ lib/manifest-merger-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/repository-25.3.1.jar
+lib/repository-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2011, The Android Open Source Project
@@ -3238,7 +3238,7 @@ lib/repository-25.3.1.jar
 ============================================================
 Notices for file(s):
 bin/screenshot2
-lib/screenshot2-25.3.1.jar
+lib/screenshot2-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project
@@ -3432,7 +3432,7 @@ lib/screenshot2-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/sdk-common-25.3.1.jar
+lib/sdk-common-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project
@@ -3626,7 +3626,7 @@ lib/sdk-common-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/sdklib-25.3.1.jar
+lib/sdklib-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project
@@ -4159,7 +4159,7 @@ support/annotations.jar
 
 ============================================================
 Notices for file(s):
-lib/chimpchat-25.3.1.jar
+lib/chimpchat-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2011, The Android Open Source Project
@@ -4353,7 +4353,7 @@ lib/chimpchat-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/ddms-25.3.1.jar
+lib/ddms-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project
@@ -4547,7 +4547,7 @@ lib/ddms-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/ddmuilib-25.3.1.jar
+lib/ddmuilib-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project
@@ -4741,7 +4741,7 @@ lib/ddmuilib-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/hierarchyviewer2lib-25.3.1.jar
+lib/hierarchyviewer2lib-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project
@@ -4936,7 +4936,7 @@ lib/hierarchyviewer2lib-25.3.1.jar
 ============================================================
 Notices for file(s):
 bin/monkeyrunner
-lib/monkeyrunner-25.3.1.jar
+lib/monkeyrunner-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project
@@ -5130,7 +5130,7 @@ lib/monkeyrunner-25.3.1.jar
 
 ============================================================
 Notices for file(s):
-lib/swtmenubar-25.3.1.jar
+lib/swtmenubar-25.3.2.jar
 ------------------------------------------------------------
 *Eclipse Public License - v 1.0*
 
@@ -5358,7 +5358,7 @@ to a jury trial in any resulting litigation.
 
 ============================================================
 Notices for file(s):
-lib/traceview-25.3.1.jar
+lib/traceview-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project
@@ -5553,7 +5553,7 @@ lib/traceview-25.3.1.jar
 ============================================================
 Notices for file(s):
 bin/uiautomatorviewer
-lib/uiautomatorviewer-25.3.1.jar
+lib/uiautomatorviewer-25.3.2.jar
 ------------------------------------------------------------
 
    Copyright (c) 2005-2008, The Android Open Source Project

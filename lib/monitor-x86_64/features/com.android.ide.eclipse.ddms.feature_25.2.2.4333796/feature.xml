@@ -2,7 +2,7 @@
 <feature
       id="com.android.ide.eclipse.ddms.feature"
       label="Android DDMS"
-      version="25.2.2.4311448"
+      version="25.2.2.4333796"
       provider-name="The Android Open Source Project"
       plugin="com.android.ide.eclipse.ddms">
 
@@ -238,16 +238,16 @@
 
    <plugin
          id="com.android.ide.eclipse.base"
-         download-size="5208"
+         download-size="5209"
          install-size="5812"
-         version="25.2.2.4311448"
+         version="25.2.2.4333796"
          unpack="false"/>
 
    <plugin
          id="com.android.ide.eclipse.ddms"
          download-size="2582"
          install-size="2925"
-         version="25.2.2.4311448"
+         version="25.2.2.4333796"
          unpack="false"/>
 
 </feature>

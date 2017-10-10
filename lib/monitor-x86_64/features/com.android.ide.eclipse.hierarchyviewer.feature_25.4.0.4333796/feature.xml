@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="com.android.ide.eclipse.traceview.feature"
-      label="Android Traceview"
-      version="25.2.2.4311448"
+      id="com.android.ide.eclipse.hierarchyviewer.feature"
+      label="Android Hierarchy Viewer"
+      version="25.4.0.4333796"
       provider-name="The Android Open Source Project"
-      plugin="com.android.ide.eclipse.traceview">
+      plugin="com.android.ide.eclipse.hierarchyviewer">
 
    <description>
-      Android Traceview
+      Android Hierarchy Viewer.
    </description>
 
    <copyright>
-      Copyright (C) 2011 The Android Open Source Project
+      Copyright (C) 2010-2011 The Android Open Source Project
    </copyright>
 
-   <license url="http://www.apache.org/licenses/LICENSE-2.0">
+   <license url="http://www.apache.org/licenses/LICENSE-2.0.txt">
       Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -223,17 +223,17 @@
    </url>
 
    <requires>
+      <import plugin="org.eclipse.ui" version="3.7.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.core.runtime" version="3.7.0" match="greaterOrEqual"/>
-      <import plugin="com.android.ide.eclipse.ddms" version="10.0.0" match="greaterOrEqual"/>
-      <import plugin="org.eclipse.core.filesystem"/>
-      <import plugin="org.eclipse.core.resources"/>
+      <import plugin="org.eclipse.ui.console"/>
+      <import plugin="com.android.ide.eclipse.ddms" match="perfect"/>
    </requires>
 
    <plugin
-         id="com.android.ide.eclipse.traceview"
-         download-size="137"
-         install-size="154"
-         version="25.2.2.4311448"
+         id="com.android.ide.eclipse.hierarchyviewer"
+         download-size="398"
+         install-size="478"
+         version="25.4.0.4333796"
          unpack="false"/>
 
 </feature>
